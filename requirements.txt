@@ -1,1 +1,5 @@
 streamlit
+requests
+pandas
+numpy
+python-dateutil
